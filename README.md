@@ -4,7 +4,10 @@ run composer install
 
 ## .env configuration
 
-setup the database connection in .env
+setup the database connection in .env.
+seed the user data.
+run 
+php artisan db:seed 
 
 ## Run the server
 
